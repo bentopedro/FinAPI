@@ -1,6 +1,6 @@
 ## FinAPI - Financeira
 
----
+--- create a src folder and put the index.js file inside it
 
 ## Requisitos
 
